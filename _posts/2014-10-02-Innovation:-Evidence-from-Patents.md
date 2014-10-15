@@ -2,7 +2,7 @@
 published: true
 ---
 
-## Innovation: Evidence from Patents
+## Project Introduction and First Day in the Incubator
 Technological innovation is one of the key drivers of long-term economic growth studied in economics and finance, yet our proxies for innovation remain coarse.  The most common proxy for innovation is patent data.  Patents provide researchers with a clear and well-recorded measure of innovation, where the number of patents and patent citations are argued to quantify the scale and novelty of a company’s innovation, respectively.  While these data offer academics a particular measurement of patents, they do not include
 many of the sub-fields and information contained in patents.  Over the next 10 weeks and as part of the Data Science Incubation Program, I hope to extend and explore the data contained in patent files.  My [GitHub wiki page] (https://github.com/uwescience/incubator/wiki/patent-analysis) has more details on the project.
 
